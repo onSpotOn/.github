@@ -8,7 +8,7 @@
 
 **SpotOn**은 스포츠 팬들을 위한 플랫폼으로, 경기 일정 확인부터 실시간 응원 채팅, 커뮤니티 활동까지 한 곳에서 즐길 수 있는 서비스입니다.
 
-🔗 **서비스 URL**: [https://onspoton.com/](https://onspoton.com/)
+🔗 **서비스 URL** : [https://onspoton.com/](https://onspoton.com/)
 
 ⚠️ **현재 모바일 최적화(반응형 웹) 작업 진행 중입니다.**  
 현재 **모바일 환경에서는 일부 UI/UX가 원활하지 않을 수 있으므로, 웹 브라우저(PC)에서 이용해 주시면 감사하겠습니다.**  
@@ -18,9 +18,9 @@
 
 ## 📂 관련 레포지토리
 
-🔗 **Backend Repository**: [SpotOn Backend](https://github.com/onSpotOn/spoton-backend)
-🔗 **Backend Repository**: [SpotOn Backend](https://github.com/onSpotOn/spoton-frontend)
-🔗 **Airflow Repository**: [SpotOn Airflow](https://github.com/onSpotOn/spoton-airflow)
+🔗 **Backend Repository** : [SpotOn Backend](https://github.com/onSpotOn/spoton-backend)  
+🔗 **Backend Repository** : [SpotOn Backend](https://github.com/onSpotOn/spoton-frontend)  
+🔗 **Airflow Repository** : [SpotOn Airflow](https://github.com/onSpotOn/spoton-airflow)
 
 ---
 
