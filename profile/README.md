@@ -18,10 +18,9 @@
 
 ## 📂 관련 레포지토리
 
-SpotOn 프로젝트는 **백엔드, 프론트엔드, Airflow가 별도 레포지토리**로 관리됩니다.
-
-🔗 **Backend Repository**: [SpotOn Backend](https://github.com/leehah0908/spoton-backend)  
-🔗 **Airflow Repository**: [SpotOn Airflow](https://github.com/leehah0908/spoton-airflow)
+🔗 **Backend Repository**: [SpotOn Backend](https://github.com/onSpotOn/spoton-backend)
+🔗 **Backend Repository**: [SpotOn Backend](https://github.com/onSpotOn/spoton-frontend)
+🔗 **Airflow Repository**: [SpotOn Airflow](https://github.com/onSpotOn/spoton-airflow)
 
 ---
 
